@@ -80,7 +80,14 @@
 
 ---
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=assismiranda&hide_langs_below=1")
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=assismiranda&show_icons=true)
+<a href="https://github.com/assismiranda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assismiranda&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/assismiranda">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gurupreet&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
+</a>
+<a href="https://github.com/Gurupreet/ComposeCookBook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=assismiranda&repo=ComposeCookBook&theme=light" />
+</a>
 
 
