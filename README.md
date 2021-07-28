@@ -80,5 +80,7 @@
 
 ---
 ## ⭐ Informações sobre minha conta GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=assismiranda&hide_langs_below=1")
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=assismiranda&show_icons=true)
+
 
