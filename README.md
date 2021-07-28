@@ -4,8 +4,8 @@
 > Co-fundador da Treinanet.com
 > Tranformando vidas por meio da educação.
 
-🔭 Atuo em diversos projetos acadêmicos e profissionais, nos quais tem participação dos meus alunos.
-💬 Sejam bem-vindos e espero contribuir com a sua carreira na área de programação.
+Atuo em diversos projetos acadêmicos e profissionais, nos quais tem participação dos meus alunos. <br>
+Sejam bem-vindos e espero contribuir com a sua carreira na área de programação.
 
 ----
 
@@ -25,3 +25,4 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=assismiranda&show_icons=true)
+
