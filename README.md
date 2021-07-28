@@ -28,7 +28,8 @@
 <code><img height="32" src="https://altyra.com/wp-content/uploads/2018/11/microsoft-sql-server-logo-png.png" alt="SQL Server"/></code>
 
 
-### Outras
+### Áreas de atuação
+- Programação Web
 - Engenharia de Software
 - Gestão de Projetos
 - Qualidade de Software
