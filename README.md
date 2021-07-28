@@ -1,13 +1,15 @@
 ## Olá, meu nome é <strong>Márcio Assis</strong>
 
-> Sou professor de programação a mais de 20 anos e analista desenvedor sênior.
-> Co-fundador da Treinanet.com
-> Tranformando vidas por meio da educação.
+- Sou professor de programação a mais de 20 anos e analista desenvedor sênior.<br>
+- Co-fundador da Treinanet.com <br>
+- Tranformando vidas por meio da educação.<br>
 
-Atuo em diversos projetos acadêmicos e profissionais, nos quais tem participação dos meus alunos. <br>
-Sejam bem-vindos e espero contribuir com a sua carreira na área de programação.
+### Formação
+- Mestre em Informática (Ciência da Computação) - PUC Minas
+- Especialista em Melhoria de Processo de Software - UFLA
+- Bacharel em Sistemas de Informação - UNILESTE
 
-----
+---
 
 ## 🚀 Minhas Skills
 
@@ -21,6 +23,7 @@ Sejam bem-vindos e espero contribuir com a sua carreira na área de programaçã
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
