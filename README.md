@@ -86,7 +86,7 @@
 <a href="https://github.com/assismiranda">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gurupreet&show_icons=true&theme=light&line_height=27" alt="Guru's github stats"/>
 </a>
-<a href="https://github.com/assismiranda/ComposeCookBook">
+<a href="https://github.com/assismiranda">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=assismiranda&repo=ComposeCookBook&theme=light" />
 </a>
 
