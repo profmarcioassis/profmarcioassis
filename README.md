@@ -35,7 +35,10 @@
 - Qualidade de Software
 - Informática na Educação
 
+### Social
 [![social](https://img.shields.io/badge/Linkedin--blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/profmarcioassis/)
+[![social](https://img.shields.io/badge/Youtube--red?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UC6dcft0plmftQcYNc6_bQOw)
+
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
