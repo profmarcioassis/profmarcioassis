@@ -81,10 +81,10 @@
 ---
 ## ⭐ Informações sobre minha conta GitHub
 <a href="https://github.com/assismiranda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=assismiranda&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profmarcioassis&theme=light&hide_langs_below=1" />
 </a>
 <a href="https://github.com/assismiranda">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=assismiranda&show_icons=true&theme=light&line_height=27" alt="Márcio's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=profmarcioassis&show_icons=true&theme=light&line_height=27" alt="Márcio's github stats"/>
 </a>
 
 
