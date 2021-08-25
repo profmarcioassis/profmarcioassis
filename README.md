@@ -66,7 +66,7 @@
 [![social](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profmarcioassis/)
 [![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/profmarcioassis/)
 [![social](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC6dcft0plmftQcYNc6_bQOw)
-[![social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/assismiranda)
+[![social](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/profmarcioassis)
 [![social](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:profmarcioassis@gmail.com)
 
 ---
@@ -80,10 +80,10 @@
 
 ---
 ## ⭐ Informações sobre minha conta GitHub
-<a href="https://github.com/assismiranda">
+<a href="https://github.com/profmarcioassis">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=profmarcioassis&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/assismiranda">
+<a href="https://github.com/profmarcioassis">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=profmarcioassis&show_icons=true&theme=light&line_height=27" alt="Márcio's github stats"/>
 </a>
 
