@@ -1,8 +1,8 @@
 
 ## Olá, meu nome é <strong>Márcio Assis</strong>
-- Sou professor de programação a mais de 20 anos e analista desenvolvedor sênior.<br>
+- Sou professor de programação há mais de 20 anos e analista desenvolvedor sênior.<br>
 - Co-fundador da Treinanet.com <br>
-- Tranformando vidas por meio da educação.<br> 
+- Tranformando vidas por meio da educação e da programação.<br> 
 ### Formação Acadêmica
 - Mestre em Informática (Ciência da Computação) - PUC Minas
 - Especialista em Melhoria de Processo de Software - UFLA
