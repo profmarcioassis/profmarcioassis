@@ -1,8 +1,7 @@
 
 ## Olá, meu nome é <strong>Márcio Assis</strong>
-- Sou professor de programação há mais de 20 anos e atualmente atuo no departamento de computação do IFMG campus Ouro Branco. 
-- Também sou analista desenvolvedor sênior ecCo-fundador da Treinanet.com <br>
-- Ajudo pessoas a conquistarem o sucesso na programação.
+- Sou professor de Computação há mais de 20 anos e atualmente atuo no departamento de computação do IFMG campus Ipatinga. 
+- Transformo a vida das pessoas por meio da Educação e da Tecnologia.
 
 ### Formação Acadêmica
 - Mestre em Informática (Ciência da Computação) - PUC Minas
