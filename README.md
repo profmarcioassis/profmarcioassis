@@ -75,7 +75,9 @@
 
 ---
 ### Áreas de atuação
-- Programação Web
+- Inteligência Artificial
+- Desenolvimento Web
+- Banco de Dados
 - Engenharia de Software
 - Gestão de Projetos
 - Qualidade de Software
